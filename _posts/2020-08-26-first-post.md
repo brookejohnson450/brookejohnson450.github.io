@@ -12,8 +12,12 @@ I am also a SENIOR at TEXAS A&M UNIVERSITY and I will be graduating this Decembe
 The other largest part of my identity would be my family dog. Her name is Luna! She is 7 years old and we adopted her from a shelter two years ago. She was so scared when we first brought her home but she has grown so much! Anyway, these are my favorite pics of Luna!
 
 ![A sunbathing pup!](/assets/IMG-0861.JPG)
+<img src="/assets/IMG-0861.JPG"  width="120" height="120">
 ![After a loooong walk!](/assets/IMG-1071.JPG)
+<img src="/assets/IMG-1071.JPG"  width="120" height="120">
 ![Just a cute photo for fun!](/assets/IMG-9603.JPG)
+<img src="/assets/IMG-9603.JPG"  width="120" height="120">
+
 
 For the purpose of getting an A on this assignment, here is my obligatory response:
 I took this course to finish my English minor and graduate on time. I chose this class specifically because I have a strong interest in digital media and marketing. I love learning about social media marketing, blogging, and creating content. I love math and critically thinking as well, and I thought learning about those topics from an English perspective would be helpful. I am really excited for this class!
