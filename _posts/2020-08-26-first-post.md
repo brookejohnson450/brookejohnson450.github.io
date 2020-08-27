@@ -11,8 +11,8 @@ I am also a SENIOR at TEXAS A&M UNIVERSITY and I will be graduating this Decembe
 
 The other largest part of my identity would be my family dog. Her name is Luna! She is 7 years old and we adopted her from a shelter two years ago. She was so scared when we first brought her home but she has grown so much! Anyway, these are my favorite pics of Luna!
 
-<img src="/assets/IMG-0861.JPG"  width="50" height="50">
-<img src="/assets/IMG-1071.JPG"  width="50" height="50">
+<img src="/assets/IMG-0861.JPG"  width="524" height="1532">
+<img src="/assets/IMG-1071.JPG"  width="" height="">
 <img src="/assets/IMG-9603.JPG"  width="" height="">
 
 
