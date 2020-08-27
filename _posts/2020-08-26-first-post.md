@@ -7,7 +7,7 @@ I am *so* excited to publish my first blog post! If you did not read that senten
 
 Here is a quick rundown about myself: My name is Brooke! I am an INTJ, Ennegram Type 6, and an aquarius! Basically that means I am loyal, independent, and clueless in romance. What a great combo!
 
-I am also a SENIOR at TEXAS A&M UNIVERSITY and I will be graduating this December in the middle of a pandemic! Yay! I like lifting weights, learning about personal finance, and making Spotify playlists with funny names. I am currently watching Selling Sunset and I'm always listening to Girl Gotta Eat! I do not belong to any fandoms, but I did like One Direction through all 5 albums. Yes, obviously, I still like Harry. I mean, he sang Landslide with Fleetwood Mac and I cried when I saw that video!!
+I am also a SENIOR at TEXAS A&M UNIVERSITY and I will be graduating this December in the middle of a pandemic! Yay! I like lifting weights, learning about personal finance, and making Spotify playlists with funny names. I am currently watching Selling Sunset and I'm always listening to Girl Gotta Eat! I do not belong to any fandoms, but I did like One Direction through all 5 albums. Yes, obviously, I still like Harry. I mean, he sang Landslide with Fleetwood Mac! Iconic!!
 
 The other largest part of my identity would be my family dog. Her name is Luna! She is 7 years old and we adopted her from a shelter two years ago. She was so scared when we first brought her home but she has grown so much! Anyway, these are my favorite pics of Luna!
 
