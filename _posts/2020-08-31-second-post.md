@@ -3,9 +3,6 @@ layout: post
 title: Hands-on Activity 1: What Is Data?
 ---
 
-look at each of them and try to imagine the data structure and the kinds of data needed to create them.
-Then, ask yourself: what are the advantages and disadvantages of this visualization? Could something else be more effective?
-
 The topic this week was data, which is an all-encompassing term used for many applications. While looking at the background reading, I noticed that my eyes were drawn to certain types of visualizations. One example is the Flow Map, which I have seen more recently with the spread of COVID-19. This type of visualization stuck out to me because I see graphs like it on the news and online. It grabs your attention and shows the data through movement geographically.
 
 Looking at the Team Member Card Picker visualization, I did not love the setup of the data. I found it to be too busy for my liking. Though my opinion is negative on this visualization, I do see the positives by structing your employee data in this way. It allows the reader to quickly understand the structure of the team without too much information. The type of data needed to create this was basic data from the employees on the team. The disadvantage of this type of visualization is the inability to compare employees simultaneously. The reader is only able to see one team member at a time, which limits the amount of information that one is able to take in during a short amount of time. I think the idea of this type of visualization can be changed to display the data more efficiently. I would have created circles instead of rectangular blocks to soften the look of the webpage. I would also have created a feature to browse the data for each team member without having to click on each person, but still allowing the reader the option to view each team member alone by clicking on their image. This would create a more efficient website and display the data in a more professional, efficient way.
