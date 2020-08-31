@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on Activity #1: What Is Data?
+title: Hands-on Activity 1: What Is Data?
 ---
 
 look at each of them and try to imagine the data structure and the kinds of data needed to create them.
