@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflective Post: Civilian Unemployment Rates 
+title: Reflective Post 1 - Civilian Unemployment Rates 
 ---
 
 After learning more about data this past week, I found an interesting data chart from the U.S. Bureau of Labor Statistics, shown on https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm. I sought out to find data on the unemployment rates in the United States because I am currently applying for full-time jobs. When millions of Americans were laid off or furloughed earlier in 2020, it scared me. After looking at this data, it made me more confident about the recovering job market.
