@@ -1,3 +1,8 @@
+---
+layout: post
+title: Reflective Blog Post 1: Civilian Unemployment Rates 
+---
+
 After learning more about data this past week, I found an interesting data chart from the U.S. Bureau of Labor Statistics, shown on https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm. I sought out to find data on the unemployment rates in the United States because I am currently applying for full-time jobs. When millions of Americans were laid off or furloughed earlier in 2020, it scared me. After looking at this data, it made me more confident about the recovering job market.
 
 The data in the chart shows the civilian unemployment rate, which has been seasonally adjusted. This data shows the civilian unemployment rate since 2000, which allows the reader to compare the current job market to other uncertain times in the job market, such as 2008 and 2009. This time range makes this data efficient because many readers will remember the job market in 2008 and 2009. In the graph, it also shows the exact unemployment rate in a percent when the curser is placed over the line in the graph. This is an efficient way to show the exact rate for a specific period in time. This data could be improved by creating a larger graph to allow readers to see the data better. When you create a larger graph, comparing three or more demographic data points becomes an easier task to complete.
