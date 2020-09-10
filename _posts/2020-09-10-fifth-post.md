@@ -3,7 +3,7 @@ layout: post
 title: Hands-on Activity 2 - What is a File?
 ---
 
-This weeks reading covered different types of files and how we can use files. introduction basically
+This weeks reading covered different types of files and how we can use files. I used this information and the tutorial included on the hands-on activity assignment to create a new page on my blog.
 
 This is the link to my new page on my blog: [My New Page (https://brookejohnson450.github.io/about/springbreak)
 
