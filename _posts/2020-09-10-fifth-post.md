@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on Activity 1 - What is a File?
+title: Hands-on Activity 2 - What is a File?
 ---
 
 This weeks reading covered different types of files and how we can use files. introduction basically
