@@ -18,4 +18,5 @@ A funny memory I have from this trip is the fourth night. On the Appalachian tra
 Some of my long terms goals are to hike the Pacific Crest Trail (PCT) or the Continential Divide Trail (CDT). I also would like to complete a 50k (or higher milege) trail race. Hiking and running outside is such a rewarding activity for me. Every time I spend a couple days out in the wilderness, I am changed for the better.
 
 Here is a picture of a super yummy dessert we had in Nashville two nights after getting done hiking! I had found this dessert place on Instagram before leaving for the trip and James had promised that we would eat there when we got to Nashville. I thought about it every single day we were hiking and it was so worth it!
+
 <img src="/assets/milkshake.JPG"  width="300" height="400">
