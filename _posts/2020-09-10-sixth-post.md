@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Reflective Post 2 - Files in a Blog
+categories:
+- weekly reflectione
 ---
 
 This weeks reading covered what a file is, how to edit it, and other useful information about files. For the Hands-on activity, I created a new page on my blog where I discussed my backpacking trip to the Great Smoky Mountains. For this reflective blog post, I decided to focus on my favorite personal finance blog [The Finanical Diet](https://thefinancialdiet.com/)
