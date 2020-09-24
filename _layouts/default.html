@@ -36,16 +36,10 @@
 		</ul>
 		<ul>
 			<li><a href="/about/springbreak.html">About Page!</a></li>
-		</ul>
-				  
-			{% if post %}
-    {% assign categories = post.categories %}
-{% else %}
-    {% assign categories = page.categories %}
-{% endif %}
- {% if categories.size > 0%}
-    <p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
-{%endif%}	  
+		</ul>  
+				  <ul>
+			<li><a href="categories.html">Blog Post Categories</a></li>
+		</ul> 
 	  </nav>
           </span>
           <span class="left-tail"></span>
