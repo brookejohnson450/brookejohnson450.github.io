@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hands-on Activity 1 - What Is Data?
+categories:
+- hands-on activities
 ---
 
 The topic this week was data, which is an all-encompassing term used for many applications. While looking at the background reading, I noticed that my eyes were drawn to certain types of visualizations. One example is the Flow Map, which I have seen more recently with the spread of COVID-19. This type of visualization stuck out to me because I see graphs like it on the news and online. It grabs your attention and shows the data through movement geographically.
