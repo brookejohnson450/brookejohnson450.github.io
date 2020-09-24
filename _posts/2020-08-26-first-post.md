@@ -2,7 +2,6 @@
 layout: post
 title: Welcome to My Blog!
 categories:
-- about
 - welcome
 ---
 
