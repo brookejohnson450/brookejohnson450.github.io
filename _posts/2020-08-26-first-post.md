@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Welcome to My Blog!
+categories:
+- about
+- welcome
 ---
 
 I am *so* excited to publish my first blog post! If you did not read that sentence in Kim Kardashian's voice, please read it again so you'll the full vibe of this blog. I know I just said vibe, I'm disappointed too.
