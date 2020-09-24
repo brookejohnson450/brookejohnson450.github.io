@@ -2,7 +2,7 @@
 layout: post
 title: Reflective Post 3 - Analyzing A Blog
 categories:
-- weekly reflectione
+- weekly reflection
 ---
 
 This week, I decided to analyze one of my favorite blogs. Again. I won't apologize for this.
