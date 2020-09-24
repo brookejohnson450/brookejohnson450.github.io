@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hands-on Activity 2 - What is a File?
+categories:
+- hands-on activities
 ---
 
 This weeks reading covered different types of files and how we can use files. I used this information and the tutorial included on the hands-on activity assignment to create a new page on my blog.
