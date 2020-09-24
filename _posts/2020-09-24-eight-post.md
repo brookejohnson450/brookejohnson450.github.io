@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to My Blog!
+title: Tags on Tumblr
 categories:
 - weekly reflection
 ---
