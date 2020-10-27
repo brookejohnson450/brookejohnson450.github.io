@@ -5,7 +5,7 @@ categories:
 - hands-on activities
 ---
 
-Here is the link to my story: https://brookejohnson450.github.io/tracery-example.html
+Here is the [link to my story.](https://brookejohnson450.github.io/tracery-example.html)
 
 I am having a hard time with this hands-on activity. I will be working on it more tomorrow. Stay tuned.
 
