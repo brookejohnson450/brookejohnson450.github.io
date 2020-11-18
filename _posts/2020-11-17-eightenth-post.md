@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflection Post - Final Project Week 1
+title: Reflection Post - Final Project Week 2
 categories:
 - reflection post
 ---
