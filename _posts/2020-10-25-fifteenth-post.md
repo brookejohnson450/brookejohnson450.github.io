@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflection Post - Machine or Human?
+title: Reflection Post 8 - Machine or Human?
 categories:
 - reflection post
 ---
