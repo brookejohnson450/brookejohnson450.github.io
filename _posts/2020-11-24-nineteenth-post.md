@@ -18,10 +18,10 @@ categories:
   
  **Here is my updates for the week:**
 
-4. Write two blog posts. These do not have to be published yet.
+4. Write five blog posts. These do not have to be published yet.
   11/25 Notes: Started writing. Not nearly finished yet.
 
-5. Create a strong skeleton of the blog, including pages, categories, search bar, social media links, and navigation bar. Design is not needed at this step.
+5. Create a hand drawing of the blog, including pages, categories, search bar, social media links, and navigation bar. Code is not needed at this step.
   11/25 Notes: Not completed.
   
 6. Create and write an About page.
@@ -43,19 +43,18 @@ categories:
   *Task 2 - Completed on 12/4*
 
 3. Transfer domain from Squarespace to GitHub
-  12/4 Notes:
+  12/4 Notes: I had my domain at Squarespace before I took this class and learned how to manage a blog on my own! So I used [this helpful page](https://support.squarespace.com/hc/en-us/articles/205812338-Transferring-a-domain-away-from-Squarespace) to transfer my domain to GoDaddy, which would be easier to use. It was also less than $2.00 to transfer, which is a blessing for my budget. *Task 3 - Completed on 12/4*
 
-4.
+4. Write four blog posts. These do not have to be published yet.
 
-5.
+5. Create a hand drawing of the blog, including pages, categories, search bar, social media links, and navigation bar. Code is not needed at this step.
 
-6.
+6. Create and write an About page.
 
-7.
+7. Route custom domain to github repository page.
 
-8.
+8. Film and edit one video and create into a blog post.
 
-9.
+9. Find a universal social media handle fro Instagram, Facebook, Twitter, LinkedIn and TikTok.
 
-10.
-  
+10. Create blog landing page.
