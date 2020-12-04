@@ -86,6 +86,7 @@ categories:
 13. Create a search bar.
 
   **Update for 12/7/2020**
+
 14. Integrate social media links into blog
 
 15. Create customer header and footer.
