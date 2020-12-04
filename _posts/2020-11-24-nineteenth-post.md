@@ -31,11 +31,19 @@ categories:
   
   A few things: First, I did not know we only needed 12 relective blog posts. I was planning on writing for weeks after the last one was due. Second, I have not made much progress on my project becuase I have not worked on it much. With Thanksgiving, then three finals and two projects due, time management really kicked my butt the week. I am back! And oh so excited to be *this* close to my graudation! But first, ENGL 460.
 
-1.
+1.Install and learn to use Visual Studio to code blog faster.
+  12/4 Notes: I FINALLY FIGURED OUT HOW TO INSTALL GIT TO USE FOR VS CODE!!! It was a JOURNEY. Like, an influencer making a video about how they "changed their whole life" and began their "fitness journey". THAT kind of journey, you know? Anyway, after lots of blood and sweat and many, many tears I *think* I have it figured out. I used many sources, listed below:
+  [The YouTube video that helped me start!](https://www.youtube.com/watch?v=VOwyH2-VCVY)
+  [The Meat & Potatoes of Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  [This nice forum that helped me figure out my path problem](https://stackoverflow.com/questions/29971624/visual-studio-code-cannot-detect-installed-git)
+  *Task 1 - Completed on 12/4*
 
-2.
+2. Create blog using GitHub (using previous notes from ENGL 460, and [these] websites)
+  12/4 Notes: I created my basic repository in Git so that I can clone it in VS Code using the URL. Look at me using all of this lingo! I am impressing myself!
+  *Task 2 - Completed on 12/4*
 
-3.
+3. Transfer domain from Squarespace to GitHub
+  12/4 Notes:
 
 4.
 
