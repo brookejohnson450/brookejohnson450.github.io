@@ -65,7 +65,13 @@ categories:
 
 4. Write four blog posts. These do not have to be published yet.
 
+12/5 Notes: The hardest part about writing blog posts is starting. I want a really good title and then I spend 30 minutes trying to think of one. Here is at tip: don't do that! I am just wasting time! I ended up drafting all four in the early afternoon. I started writing, and I decided I wanted to add something else to my blog. I want to add a statement of privilege, so to speak. Because I want to continue this blog after this class ends, I know that I want to write about certain difficult topics. I need to preference each of these blog posts with a statement of recognizing my own privilege. Instead of stating this at the top of each blog post, I thought that I could add a shorter statement to each blog post and create a seperate page of this statement. I will not be done writing these blog posts today, but I am making progress on them!
+
 5. Create a hand drawing of the blog, including pages, categories, search bar, social media links, and navigation bar. Code is not needed at this step.
+
+12/5 Notes: I completed this fairly quickly. During this step, I looked more into different blogs like I liked to see how they have their blog layed out and what kind of other information they add to their website. This helped me to have a blueprint to what I want to design.
+
+*Task 5 - Completed on 12/5*
 
 6. Create and write an About page.
 
@@ -74,6 +80,8 @@ categories:
 8. Film and edit one video and create into a blog post.
 
   **Update for 12/6/2020**
+
+4. Write four blog posts. These do not have to be published yet.
 
 9. Find a universal social media handle fro Instagram, Facebook, Twitter, LinkedIn and TikTok.
 
@@ -86,6 +94,8 @@ categories:
 13. Create a search bar.
 
   **Update for 12/7/2020**
+
+4. Write four blog posts. These do not have to be published yet.
 
 14. Integrate social media links into blog
 
