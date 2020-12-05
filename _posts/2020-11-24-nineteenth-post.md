@@ -74,10 +74,14 @@ categories:
 *Task 5 - Completed on 12/5*
 
 6. Create and write an About page.
+12/5 Notes: I am still trying to learn VS Code. I am learning how to commit, push, and pull files to and from GitHub. While I learn that, I also am creating files on GitHub because that is easier for now. I have not created an About page on my blog yet, but I have written it.
 
 7. Route custom domain to github repository page.
 
+12/5 Notes: I am waiting for the transfer to be complete, and then I will create a CNAME on GoDaddy and it should all work!
+
 8. Film and edit one video and create into a blog post.
+12/5 Notes: Have not started.
 
   **Update for 12/6/2020**
 
