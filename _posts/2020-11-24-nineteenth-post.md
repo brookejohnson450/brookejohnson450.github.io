@@ -74,6 +74,7 @@ categories:
 *Task 5 - Completed on 12/5*
 
 6. Create and write an About page.
+
 12/5 Notes: I am still trying to learn VS Code. I am learning how to commit, push, and pull files to and from GitHub. While I learn that, I also am creating files on GitHub because that is easier for now. I have not created an About page on my blog yet, but I have written it.
 
 7. Route custom domain to github repository page.
@@ -81,13 +82,28 @@ categories:
 12/5 Notes: I am waiting for the transfer to be complete, and then I will create a CNAME on GoDaddy and it should all work!
 
 8. Film and edit one video and create into a blog post.
+
 12/5 Notes: Have not started.
 
   **Update for 12/6/2020**
 
 4. Write four blog posts. These do not have to be published yet.
 
+12/6 Notes: I have written two blog posts, and am working on the third. The third involves me watching LadyBird, becuase I liked the idea of having to watch a movie during finals, so I am working through that one. I need to revise them though. Halfway done.
+
 9. Find a universal social media handle fro Instagram, Facebook, Twitter, LinkedIn and TikTok.
+
+12/6 Notes: I do not think this will be attainable. I have not found a great handle that fits all social media accounts. To be determined.
+
+7. Route custom domain to github repository page.
+
+12/6 Notes: Transfer is complete, but I am having trouble figuring out how to change the page from a GoDaddy landing page to my blog again. I found a blog post that will help me with it, but I am tired at this point (almost midnight on 12/6) so I will finish this step tomorrow, hopefully.
+
+  **Update for 12/7/2020**
+
+4. Write four blog posts. These do not have to be published yet.
+
+7. Route custom domain to github repository page.
 
 10. Create blog landing page.
 
@@ -96,10 +112,6 @@ categories:
 12. Create a navigation bar.
 
 13. Create a search bar.
-
-  **Update for 12/7/2020**
-
-4. Write four blog posts. These do not have to be published yet.
 
 14. Integrate social media links into blog
 
